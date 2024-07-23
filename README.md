@@ -6,9 +6,9 @@ The goal is to give back to community and comprehend current cutting edge reposi
 
 | #   | Repository | Description | Comments                |
 |-----|------------|-------------|-------------------------|
-| 1   | Dspy       | Done         | Under development      |
-| 2   | textgrad   | Done        | Initial phase of design |
-
+| 1   | Dspy       | Done         |       |
+| 2   | textgrad   | Done        |  |
+| 3   | Danswer    | In Progress |
 
 ## How to Use?
 
