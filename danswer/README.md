@@ -1,3 +1,5 @@
+config.json 
+```
 {
   "local_workspace_path": "/Users/jayghiya/Documents/unoplat/danswer/backend",
   "output_path": "/Users/jayghiya/Documents/unoplat",
@@ -30,3 +32,4 @@
     }
   ]
 }
+```
