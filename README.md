@@ -1,5 +1,9 @@
 # unoplat-oss-atlas
-The goal is to give back to community and comprehend current cutting edge repositories to exponentially affect dev velocity and understanding of oss repos.
+The goal is to give back to community and comprehend current cutting edge repositories to exponentially affect dev velocity and understanding of oss repos. 
+
+
+# What is used to generate comprehension?
+We use https://github.com/unoplat/unoplat-code-confluence to generate comprehension.
 
 
 ## OSS Repo Understanding
