@@ -6,8 +6,8 @@ The goal is to give back to community and comprehend current cutting edge reposi
 
 | #   | Repository | Description | Comments                |
 |-----|------------|-------------|-------------------------|
-| 1   | Dspy       | Done         |       |
-| 2   | textgrad   | Done        |  |
+| 1   | Dspy       | Done         |   Good but a small codebase   |
+| 2   | textgrad   | Done        | Good but a small codebase |
 | 3   | Danswer    | Done | ~~is really good for v1 but there are ample opportunities to still do better~~.v2 is way better.
 
 ## How to Use?
