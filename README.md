@@ -8,7 +8,7 @@ The goal is to give back to community and comprehend current cutting edge reposi
 |-----|------------|-------------|-------------------------|
 | 1   | Dspy       | Done         |       |
 | 2   | textgrad   | Done        |  |
-| 3   | Danswer    | Done | is really good for v1 but there are ample opportunities to still do better
+| 3   | Danswer    | Done | ~~is really good for v1 but there are ample opportunities to still do better~~.v2 is way better.
 
 ## How to Use?
 
