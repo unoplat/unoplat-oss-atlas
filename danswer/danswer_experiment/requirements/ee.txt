@@ -1,3 +1,0 @@
-cohere==5.6.1
-posthog==3.7.4
-python3-saml==1.15.0
