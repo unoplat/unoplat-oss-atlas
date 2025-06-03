@@ -1,10 +1,12 @@
+
 # unoplat-oss-atlas
 The goal is to give back to community and comprehend current cutting edge repositories to exponentially affect dev velocity and understanding of oss repos. 
 
 
 # What is used to generate comprehension?
 We use https://github.com/unoplat/unoplat-code-confluence to generate comprehension.
-
+> **⚠️ Note:**  
+> This repository is currently not synchronized with the latest developments from [Unoplat Code Confluence](https://github.com/unoplat/unoplat-code-confluence), which is undergoing significant transformative changes. Updates reflecting the new approach and improvements will be integrated soon.
 
 ## OSS Repo Understanding
 
